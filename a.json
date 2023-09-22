@@ -1,0 +1,9 @@
+{
+    "weather":{
+        "temp":23,
+        "desc":"clear sky",
+        "humidity":"29"
+
+        
+    }
+}
